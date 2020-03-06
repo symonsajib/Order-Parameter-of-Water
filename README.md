@@ -9,4 +9,6 @@ These index files will be directly used to calculate the order parameter of the 
 
 2. Order Parameter.IPYNB will calculate the order parameter as we supply them the index of the reigion. We can copy the modified indeces and the nematic order parameter will be calculated. 
 
+The inputs are gro and xtc file from the simulation (here last_06.gro and last_06.xtc). Order_06.png is the result of the calculation.  
+
 
